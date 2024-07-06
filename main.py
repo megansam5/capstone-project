@@ -47,7 +47,7 @@ def play_game():
         else:
             print('Unlucky!')
 
-    print(f'You got {points} correctly out of 10!')
+    print(f'You got {points} correctly out of 9!')
 
 
 play_game()
